@@ -39,7 +39,7 @@ Custom system fetching tool which is made in bash script.
 #+BEGIN_SRC shell
 git clone https://github.com/mangeshrex/rxfetch
 cd rxfetch
-cp ttf-material-design-fonts/* $HOME/.local/share/fonts
+cp ttf-material-design-icons/* $HOME/.local/share/fonts
 fc-cache -fv
 ./rxfetch
 #+END_SRC
